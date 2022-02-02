@@ -1,0 +1,11 @@
+colorama==0.4.4
+EbookLib==0.17.1
+lxml==4.7.1
+Pillow==9.0.0
+pyaes==1.6.1
+pyasn1==0.4.8
+python-dotenv==0.19.2
+rsa==4.8
+six==1.16.0
+Telethon==1.24.0
+tqdm==4.62.3
