@@ -1,0 +1,5 @@
+*.session
+.env
+venv
+.pytest_cache
+results/
